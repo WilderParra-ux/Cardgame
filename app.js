@@ -1,4 +1,5 @@
-/*// Cliente WebSocket para la comunicación
+/*
+// Cliente WebSocket para la comunicación
 const socket = new WebSocket('ws://tu_servidor_web'); // Reemplaza 'tu_servidor_web' con la dirección de tu servidor
 
 socket.addEventListener('open', (event) => {
